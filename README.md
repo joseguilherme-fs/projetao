@@ -1,7 +1,7 @@
-# Projeto
+# Projeto Multidiciplinar
 Tema: Sistema de Ingressos para Shows
 - Alunos: José Guilherme F. da Silva, Sofia Leal de Oliveira Silva (https://github.com/theeisols) e Nirielly Brito Silva (https://github.com/niryb).
-- Projeto realizado para disciplina de Sistemas Operacionais, Estrutura de Dados e Protocolos de Interconexão de Redes de
+- Projeto realizado para as disciplinas de Sistemas Operacionais, Estruturas de Dados e Protocolos de Interconexão de Redes de
 Computadores (2º período) (2023.1).
 
 Requisitos do projeto:
